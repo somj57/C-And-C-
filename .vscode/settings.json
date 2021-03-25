@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "CLOCK.C": "cpp",
+        "iostream": "cpp"
+    }
+}
